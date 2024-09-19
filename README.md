@@ -1,1 +1,1 @@
-# anancoin
+# ANAN Token Program Information
